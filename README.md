@@ -12,7 +12,7 @@ O BloxCode Music reúne ferramentas para pesquisar códigos de músicas para Rob
 
 O aplicativo foi desenvolvido para tornar mais simples a descoberta e a organização de IDs de áudio, oferecendo também recursos sociais e de personalização.
 
-## ✨ Principais funcionalidades
+##  Principais funcionalidades
 
 - **Pesquisa de músicas:** encontre IDs de áudio por nome, artista ou gênero.
 - **Códigos para Roblox:** consulte e copie IDs de músicas para utilizar em experiências compatíveis.
